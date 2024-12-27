@@ -1,0 +1,9 @@
+(
+number1 as number,
+number2 as number
+) =>
+let
+  out = number1 + number2
+
+in
+  out
